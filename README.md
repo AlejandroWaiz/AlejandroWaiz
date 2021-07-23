@@ -6,9 +6,14 @@ better with my front-end 'cause one of my dreams is to make a table-game of stra
 I'm currently getting better on my hexagonal architecture and improving the tools that i posses right now (Net/http, Gorilla/Mux, os) and its interesting discover
 new pattern dessigns that can help me to make more escalable and flexible my applications.
 
-On the other hand, i like a lot reading/studying stuff on the internet; talks, blogs, tutorials and any other thing that can help me with this. Also i like a lot mangas and comics of various genres, specially those about conspirations, mysteries or just good worlds with good stories.
+On the other hand, i like a lot reading/studying stuff on the internet; talks, blogs, tutorials and any other thing that can help me with this. Also i like a lot mangas and comics of various genres, specially those about conspirations, mysteries or just good worlds with good stories. I also are addict to disco music; City pop, 70's and 80's disco music and 
+relatives (Michael Jackson, George Benson, Earth wind and Fire, good stuff). Yeah, i think this will work as a intro to myself.
 
+Info:
 
+Nationality: Chilean (somos el mejor pais de Chile)
+Email: alejandronicolas.waiz@gmai.com
+Cellphone number: +56965863054
 
 
 <!--
