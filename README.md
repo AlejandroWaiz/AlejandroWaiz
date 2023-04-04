@@ -36,6 +36,8 @@ RESUMEN:
 - Patrones de diseño (ver repositorios de github)
 - Patrones de arquitecturas (ver repositorios de github)
 - Docker 
+- Ingles avanzado (speaking, reading and writing)
+- 
 
 
 
