@@ -2,23 +2,26 @@
 
 ! Hola, soy Alejandro Waiz)
 
-Habilidades duras: Soy un programador backend con ya casi 3 años de experiencia desarrollando en GOLANG (1 año y medio de forma profesional) y con experiencia tanto en la parte logica (automatizaciones para aplicaciones de escritorio) como en el mundo Cloud (GCP en general y varias herramientas tales como Pub/Sub, GKE, Cloud Storage, Logging, etc), en conexiones y manejos de bases de datos tanto relacionales como no relacionales (MySQl, SQLIte, PostgreSQL, Firestore) y en especial el mundo web HTTP(S) (RESTful apis). Además todo esto ha sido reforzado con mucho tiempo de estudio tanto en buenas practicas (principios SOLID, metodologia AGILE, DRY) como em buenas tecnicas de programacion (patrones de diseño y de arquitectura), esto ya que soy un amante del nuevo conocimiento y constantemente estoy viendo charlas, leyendo foros y echando un ojo a repositorios ajenos. 
+Habilidades duras: Soy un programador backend con ya casi 3 años de experiencia desarrollando en GOLANG (2 años profesional) y con experiencia tanto en la parte logica (automatizaciones en manejo cotidiano de Excel) como en el mundo Cloud (GCP en general y varias herramientas tales como Pub/Sub, GKE, Cloud Storage, Logging, etc), en conexiones y manejos de bases de datos tanto relacionales como no relacionales (MySQl, SQLIte, PostgreSQL, Firestore) y en especial el mundo web HTTP(S) (RESTful apis). Además todo esto ha sido reforzado con mucho tiempo de estudio tanto en buenas practicas (principios SOLID, metodologia AGILE, DRY) como en buenas tecnicas de programacion (patrones de diseño y de arquitectura), esto ya que soy un amante del nuevo conocimiento y constantemente estoy viendo charlas, leyendo foros y echando un ojo a repositorios ajenos. 
 
-Habilidades blandas: Soy una persona proactiva que sabe adaptarse a cualquier entorno, desde trabajos en equipo hasta tareas en solitario. Siempre he sido un amante del conocimiento y autodidacta por lo que la programacion me vino como anillo al dedo, constantemente estoy buscando nuevas formas de perfeccionar mis conocimientos buscando la experiencia de quienes ya han hecho un camino y buscando nuevas skills que me ayuden en mi carrera. Soy empatico, sociable, comprometido y alguien a quien le gusta terminar lo que empieza. Me gusta ser organizado y estructurado cuando hay que serlo, pero tambien me enorgullezco de mi creatividad e inteligencia. 
+Habilidades blandas: Soy una persona proactiva que sabe adaptarse a cualquier entorno, desde trabajos en equipo hasta tareas en solitario y mi orgullo fue trabajar 3 meses para una radio como locutor y radiocontrolador, entrevistando importantes autoridades durante el periodo Covid. Siempre he sido un amante del conocimiento y autodidacta por lo que la programacion me vino como anillo al dedo, constantemente estoy buscando nuevas formas de perfeccionar mis conocimientos buscando la experiencia de quienes ya han hecho un camino y buscando nuevas skills que me ayuden en mi carrera. Soy empatico, sociable, comprometido y alguien a quien le gusta terminar lo que empieza. Me gusta ser organizado y estructurado cuando hay que serlo, pero tambien me enorgullezco de mi creatividad e inteligencia. 
 
 
 RESUMEN:
 
 ---> Lenguajes
-- Golang (3 años de experiencia en backend)
-- Javascript (1 año de experiencia en frontend)
-- React.js (1/2 año de experiencia en frontend)
+- Golang (3 1/2 años)
+- Javascript (1 1/2 años)
+- asp.NET basado en C# (1 año)
+- React.js (1 año de experiencia)
+
 
 ---> Experiencia en backend
 - RESTful apis 
 - Operaciones CRUD
 - Conexiones HTTP(S)
 - Cyberseguridad y middlewares
+- Integracion con frontend, bases de datos y APIs de terceros
 
 ---> Experiencia en la nube (Google)
 - Google Cloud Storage
@@ -37,10 +40,6 @@ RESUMEN:
 - Patrones de arquitecturas (ver repositorios de github)
 - Docker 
 - Ingles avanzado (speaking, reading and writing)
-- 
-
-
-
 
 Info:
 
