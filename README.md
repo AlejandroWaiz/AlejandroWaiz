@@ -1,64 +1,36 @@
-### Hello There! 👋
+<h1 align="center">Hola 👋, soy Alejandro Waiz Manacá</h1>
+<h3 align="center">Un desarrollador de backend y software</h3>
 
-! Hola, soy Alejandro Waiz)
+- 🔭 Actualmente estoy trabajando en:
+  * [MaiData Solutions](Desarrollador de software)(https://www.linkedin.com/company/maidata-solutions/)
+  *[Miss propiedades](Community manager / Desarrollador de software)(https://www.linkedin.com/company/misspropiedades/mycompany/)
+  
+- 🌱 Actualmente estoy estudiando **Desarrollo de aplicaciones en DUOC UC**
 
-Habilidades duras: Soy un programador backend con ya casi 3 años de experiencia desarrollando en GOLANG (2 años profesional) y con experiencia tanto en la parte logica (automatizaciones en manejo cotidiano de Excel) como en el mundo Cloud (GCP en general y varias herramientas tales como Pub/Sub, GKE, Cloud Storage, Logging, etc), en conexiones y manejos de bases de datos tanto relacionales como no relacionales (MySQl, SQLIte, PostgreSQL, Firestore) y en especial el mundo web HTTP(S) (RESTful apis). Además todo esto ha sido reforzado con mucho tiempo de estudio tanto en buenas practicas (principios SOLID, metodologia AGILE, DRY) como en buenas tecnicas de programacion (patrones de diseño y de arquitectura), esto ya que soy un amante del nuevo conocimiento y constantemente estoy viendo charlas, leyendo foros y echando un ojo a repositorios ajenos. 
+- 👯 Me gustaría trabajar en **Contratistas, empresas robustas y proyectos a largo plazo que ayuden a la comunidad**
 
-Habilidades blandas: Soy una persona proactiva que sabe adaptarse a cualquier entorno, desde trabajos en equipo hasta tareas en solitario y mi orgullo fue trabajar 3 meses para una radio como locutor y radiocontrolador, entrevistando importantes autoridades durante el periodo Covid. Siempre he sido un amante del conocimiento y autodidacta por lo que la programacion me vino como anillo al dedo, constantemente estoy buscando nuevas formas de perfeccionar mis conocimientos buscando la experiencia de quienes ya han hecho un camino y buscando nuevas skills que me ayuden en mi carrera. Soy empatico, sociable, comprometido y alguien a quien le gusta terminar lo que empieza. Me gusta ser organizado y estructurado cuando hay que serlo, pero tambien me enorgullezco de mi creatividad e inteligencia. 
+- 🤝 Busco ayuda en **ideas para juegos de mesa y cuentos**
 
+- 💬 Preguntame sobre **Golang, Google Cloud Platform**
 
-RESUMEN:
+- 📫 Contactame en **alejandronicolas.waiz@gmail.com, +56965863054**
 
----> Lenguajes
-- Golang (3 1/2 años)
-- Javascript (1 1/2 años)
-- asp.NET basado en C# (1 año)
-- React.js (1 año de experiencia)
+- 📄 Puedes conocer más de mi en https://www.linkedin.com/in/alejandro-waiz-31b5031a2/
 
+- ⚡ Hobbies **Crear juegos de mesa, leer libros, escuchar/crear música, salir a explorar lugares, cocinar**
 
----> Experiencia en backend
-- RESTful apis 
-- Operaciones CRUD
-- Conexiones HTTP(S)
-- Cyberseguridad y middlewares
-- Integracion con frontend, bases de datos y APIs de terceros
+- He trabajado como programador en:
+  *BC tecnologia (1 año y medio) (Desarrollador backend) (Golang, Node.js, Typescript, JAVA) (Google Cloud Platform, REDIS, Firestore, MySQL)
+  *INSECAP capacitaciones (4 meses) (Desarrollador fullstack) (asp.NET, C#, Golang, HTML5) (MySQL, Google Cloud Platform, MySQL)
+  *Miss Propiedades (4 meses y contando) (Desarrollador software) (Javascript, Golang) (Microsoft Word)
+  *MaiData Solutions (2 meses y contando) (Desarrollador software) (Golang, React.js) (Microsoft Excel)
+  *Independiente (3 meses y contando) (Desarrollador software) (Golang, Javascript) (Microsoft Word, Microsoft Excel)
+  
 
----> Experiencia en la nube (Google)
-- Google Cloud Storage
-- Google Kubernetes Engine
-- Pub/Sub
-- Firestore 
-- Logging
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-waiz-31b5031a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-waiz-31b5031a2/" height="30" width="40" /></a>
+</p>
 
----> Experiencia en base de datos
-- MySQL
-- PostgreSQL
-- Firestore
-
----> Conocimientos importantes
-- Patrones de diseño (ver repositorios de github)
-- Patrones de arquitecturas (ver repositorios de github)
-- Docker 
-- Ingles avanzado (speaking, reading and writing)
-
-Info:
-
-Nationality: Chilean (somos el mejor pais de Chile)
-Email: alejandronicolas.waiz@gmail.com
-Cellphone number: +56965863054
-
-
-<!--
-**AlejandroWaiz/AlejandroWaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
