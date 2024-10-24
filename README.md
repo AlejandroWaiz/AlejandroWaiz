@@ -2,8 +2,8 @@
 <h3 align="center">Un desarrollador de backend y software</h3>
 
 - 🔭 Actualmente estoy trabajando en:
-  * [MaiData Solutions](Desarrollador de software)(https://www.linkedin.com/company/maidata-solutions/)
-  *[Miss propiedades](Community manager / Desarrollador de software)(https://www.linkedin.com/company/misspropiedades/mycompany/)
+  - [MaiData Solutions](Desarrollador de software)(https://www.linkedin.com/company/maidata-solutions/)
+  - [Miss propiedades](Community manager / Desarrollador de software)(https://www.linkedin.com/company/misspropiedades/mycompany/)
   
 - 🌱 Actualmente estoy estudiando **Desarrollo de aplicaciones en DUOC UC**
 
@@ -20,13 +20,12 @@
 - ⚡ Hobbies **Crear juegos de mesa, leer libros, escuchar/crear música, salir a explorar lugares, cocinar**
 
 - He trabajado como programador en:
-  *BC tecnologia (1 año y medio) (Desarrollador backend) (Golang, Node.js, Typescript, JAVA) (Google Cloud Platform, REDIS, Firestore, MySQL)
-  *INSECAP capacitaciones (4 meses) (Desarrollador fullstack) (asp.NET, C#, Golang, HTML5) (MySQL, Google Cloud Platform, MySQL)
-  *Miss Propiedades (4 meses y contando) (Desarrollador software) (Javascript, Golang) (Microsoft Word)
-  *MaiData Solutions (2 meses y contando) (Desarrollador software) (Golang, React.js) (Microsoft Excel)
-  *Independiente (3 meses y contando) (Desarrollador software) (Golang, Javascript) (Microsoft Word, Microsoft Excel)
+  - BC tecnologia (1 año y medio) (Desarrollador backend) (Golang, Node.js, Typescript, JAVA) (Google Cloud Platform, REDIS, Firestore, MySQL)
+  - INSECAP capacitaciones (4 meses) (Desarrollador fullstack) (asp.NET, C#, Golang, HTML5) (MySQL, Google Cloud Platform, MySQL)
+  - Miss Propiedades (4 meses y contando) (Desarrollador software) (Javascript, Golang) (Microsoft Word)
+  - MaiData Solutions (2 meses y contando) (Desarrollador software) (Golang, React.js) (Microsoft Excel)
+  - Independiente (3 meses y contando) (Desarrollador software) (Golang, Javascript) (Microsoft Word, Microsoft Excel)
   
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-waiz-31b5031a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-waiz-31b5031a2/" height="30" width="40" /></a>
